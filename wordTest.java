@@ -6,5 +6,6 @@ public class wordTest {
         System.out.println("hot-fix");
         System.out.println("5678");
          System.out.println("啦啦啦啦啦啦啦啦");
+         System.out.println("哈哈哈哈哈");
     }
 }
